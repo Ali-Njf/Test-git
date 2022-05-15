@@ -9,5 +9,8 @@ public class Application {
         boolean flag = false;
         if (flag)
             System.out.println(flag);
+        else {
+            System.out.println(flag);
+        }
     }
 }
